@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052072055519",
+    "project_id": "geofencingapp-d5c33",
+    "storage_bucket": "geofencingapp-d5c33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052072055519:android:1cf85a85192ecfc7e14f6a",
+        "android_client_info": {
+          "package_name": "com.example.geo_fencing_polygon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bEsSgadbm-aiicqeA0D5_KqcuThqtzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
